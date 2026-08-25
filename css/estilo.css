@@ -1,0 +1,14 @@
+body{
+   background-color: black;
+} 
+#historia{
+    color: white;
+}
+footer{
+    color: white;
+}
+#descontos{
+    display: flex;
+    align-items: center;
+    
+}
